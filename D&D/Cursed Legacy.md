@@ -11,12 +11,13 @@ The college is basically the various guilds (Fighter, bard, wizard, etc.) using 
 It was created using a demiplane. Originally it had a few modest buildings, one for each profession. As they grew they created a link to Sigil, and then the Infinite Staircase. This allowed the college to grow at an exponential rate.
 
 - The door to the Infinite Staircase allowed evil to creep in.
-
+  
 - Big fight
-
+  
 - Cut off access to the Infinite Staircase
-
+  
 - Rumor is that the door is still there, just hidden.
+  
 
 ### Courses
 
@@ -60,15 +61,14 @@ It was created using a demiplane. Originally it had a few modest buildings, one 
 
 ### Monsters with possibilities
 
-* Berbalang
-
-* 
+- Berbalang
+  
 
 ---
 
 #### Temporal Mass and its effects on legendary beings
 
-If time is the result of matter, the same way electricity is the result of magnets interacting with copper. Could things made of matter have temporal mass? Things with greater temporal mass having a greater influence on how time interacts and behaves with other matter. This is why some beings seem to have a larger influence on how future events play out, and why if you try to remove their influence from the flow of time you encounter more and more resistance. An example would be Darksied from DC Comics. Darksied is considered one of the pillars of creation. Meaning Darksied can't be destroyed. If the same logic applies to all fictional canon then Vecna could be considered the D&D equivalent of a Pillar of Creation. Meaning that Vecna must always exist for time to flow properly. Just like Acerack. That would also explain why deities cannot actually die. Their power may ebb and flow, but certain ones cannot be destroyed. 
+If time is the result of matter, the same way electricity is the result of magnets interacting with copper. Could things made of matter have temporal mass? Things with greater temporal mass having a greater influence on how time interacts and behaves with other matter. This is why some beings seem to have a larger influence on how future events play out, and why if you try to remove their influence from the flow of time you encounter more and more resistance. An example would be Darksied from DC Comics. Darksied is considered one of the pillars of creation. Meaning Darksied can't be destroyed. If the same logic applies to all fictional canon then Vecna could be considered the D&D equivalent of a Pillar of Creation. Meaning that Vecna must always exist for time to flow properly. Just like Acerack. That would also explain why deities cannot actually die. Their power may ebb and flow, but certain ones cannot be destroyed.
 
 ---
 
@@ -90,19 +90,19 @@ OR, hear me out, we try something not as insane. That particular plotline is WAY
 
 What would it need?
 
-1) Research on Nexus points in the D&D multiverse
-   
-   1) Places where the various universes and planes intersect and allow travel
+1. Research on Nexus points in the D&D multiverse
+  
+  1. Places where the various universes and planes intersect and allow travel
+2. What kinds of artifacts allow magical travel
+  
+3. Power source
+  
+4. Spells
+  
+5. I'm pretty sure I'm missing something. I'll see if I can find some comics that deal with this sort of thing.
+  
 
-2) What kinds of artifacts allow magical travel
-
-3) Power source
-
-4) Spells
-
-5) I'm pretty sure I'm missing something. I'll see if I can find some comics that deal with this sort of thing.
-
-Still need to figure out why Kas is doing this. So, the fake Kas is haunted by his betrayal. 
+Still need to figure out why Kas is doing this. So, the fake Kas is haunted by his betrayal.
 
 ### The How and Why
 
@@ -114,7 +114,7 @@ The purpose of the bag is to collect the harvested souls. The artifacts all requ
 
 Note: I need to flesh out the "end of the road" part. (What does this mean? ----> It means the "why" of things.)
 
-So, by sheer luck I got an ad for a AI RPG generator for DMs. So I was able to input my conundrum and it gave me a workable answer. Kas is doing this to amass enough power to finish his masters work. 
+So, by sheer luck I got an ad for a AI RPG generator for DMs. So I was able to input my conundrum and it gave me a workable answer. Kas is doing this to amass enough power to finish his masters work.
 
 ---
 
@@ -150,15 +150,16 @@ Boons the user with unusual good fortune when gambling. The dice are in a nondes
 
 #### Villains
 
-1) Kas: The death knight that believes himself to be the original Kas the bloody handed
-
-2) Vecna: The most feared of all Liches. Rose to godhood.
-
-3) The Serpent: An unknown entity that speaks to those it chooses.
+1. Kas: The death knight that believes himself to be the original Kas the bloody handed
+  
+2. Vecna: The most feared of all Liches. Rose to godhood.
+  
+3. The Serpent: An unknown entity that speaks to those it chooses.
+  
 
 #### Heroes
 
-1) Placeholder
+1. Placeholder
 
 ---
 
@@ -176,7 +177,7 @@ So, at some point one of the players falls ill due to ingesting the Dust of Dryn
 
 ##### Behind the scenes
 
-The tavern is run by a retired adventure. He seeks a solution to his rat problem. A bag of poison magically appears in his storeroom. The poison is the cursed dust of dryness. By using it to kill the rats it feels their life to him, revitalizing him. He eventually notices the bag doesn't ever seem to run out so he starts conducting experiments. He monitors its use, and during these experiments he realizes that every time one of the rats dies, he feels a tiny bit stronger. He begins using it on larger creatures in the sewers, eventually clearing out large areas. As his grows stronger he begins to seeks greater and greater power over death, leading him to the necromantic arts. 
+The tavern is run by a retired adventure. He seeks a solution to his rat problem. A bag of poison magically appears in his storeroom. The poison is the cursed dust of dryness. By using it to kill the rats it feels their life to him, revitalizing him. He eventually notices the bag doesn't ever seem to run out so he starts conducting experiments. He monitors its use, and during these experiments he realizes that every time one of the rats dies, he feels a tiny bit stronger. He begins using it on larger creatures in the sewers, eventually clearing out large areas. As his grows stronger he begins to seeks greater and greater power over death, leading him to the necromantic arts.
 
 He creates skeletal rats under his command that act as spies. Using those spies he finds out where he can find more items of necromatic power. Using the newly cleared areas of the sewers he stores these items and creates a makeshift base. Most of the items were small trinkets and minor magic items.
 
@@ -186,18 +187,18 @@ Various tiny trinkets and books. Mentions various liches and necromancers. One m
 
 ### Dread Helm
 
-The cursed helm finds its way into the possession of a foot soldier. Under the influence of the helm the foot soldier finds himself able to demonstrate feats of tactical ingenuity he was incapable of before hand. As his tactical genius grew, so does his charisma, and arrogance. 
+The cursed helm finds its way into the possession of a foot soldier. Under the influence of the helm the foot soldier finds himself able to demonstrate feats of tactical ingenuity he was incapable of before hand. As his tactical genius grew, so does his charisma, and arrogance.
 
 He is given control of a [Insert player level appropriate size for challenge here]. At some point the players come to this fort [I'm thinking caravan escort to keep the overall plot somewhat obfuscated.]. They are placed under arrest under false charges. Taken to the dungeons where they see first hand the "efficiency" of the commanders leadership. All but a few of the soldiers here are fiercely loyal to the commander. The only soldiers that aren't loyal are new arrivals. The longer the soldiers stay, the more fanatical they become. [Daily wisdom saves. Use exhaustion levels to denote fanaticism level.] Not even the player are immune.
 
-| Level | Effect      |
-|:-----:|:-----------:|
-| 1     | Placeholder |
-| 2     | Placeholder |
-| 3     | Placeholder |
-| 4     | Placeholder |
-| 5     | Placeholder |
-| 6     | Placeholder |
+| Level | Effect |
+| --- | --- |
+| 1   | Placeholder |
+| 2   | Placeholder |
+| 3   | Placeholder |
+| 4   | Placeholder |
+| 5   | Placeholder |
+| 6   | Placeholder |
 
 ### Cloak of Many Fashions
 
@@ -223,11 +224,11 @@ Creating a small village near the church with the help of the were creatures the
 
 ### Charlatan's Dice
 
-Compels the wielder to engage in games of chance whenever one is offered. Always has a gold piece available strictly for gambling. If the owner tries to rid himself of the dice they die in a agonizingly unlucky way. The dice do not have to be used, only carried. 
+Compels the wielder to engage in games of chance whenever one is offered. Always has a gold piece available strictly for gambling. If the owner tries to rid himself of the dice they die in a agonizingly unlucky way. The dice do not have to be used, only carried.
 
 Series of murders, and accidents.
 
-Any player that engages an individual that possesses the Charlatan's Dice will suffer a curse if they loose to the possessor. I'm debating whether to give enemies advantage against them or a flat bonus to hit. 
+Any player that engages an individual that possesses the Charlatan's Dice will suffer a curse if they loose to the possessor. I'm debating whether to give enemies advantage against them or a flat bonus to hit.
 
 ## Additional Adventures
 
@@ -239,7 +240,7 @@ A local farmer needs help dealing with a infestation of Ankhegs. They keep burro
 
 Durring the adventure the players will stumble upon ancient tunnels that the ankhegs had burrowed into. The tunnels lead into a small dungeon.
 
- Dungeon is filled with aberrations.
+Dungeon is filled with aberrations.
 
 Core spawn crawlers possible enemies.
 
@@ -247,27 +248,29 @@ Star Spawn Grue also possible. Adds a bit of lovecraft to it.
 
 #### BBGEG Ideas
 
-* Could be a Nothic. They are labeled as Dark Oracles.
-
-* BBEG of the dungeon is basically a brain in a jar. So just use any CR appropriate monster and give it a glass top of the skull.
+- Could be a Nothic. They are labeled as Dark Oracles.
+  
+- BBEG of the dungeon is basically a brain in a jar. So just use any CR appropriate monster and give it a glass top of the skull.
+  
 
 Player discover the dead body of a Berbalang.
 
 #### Monsters (Focusing on constructs and aberrations)
 
-1) Nothic
-
-2) Core Spawn Crawlers
-
-3) Bagiennik
-
-4) Choker
-
-5) Cranium Rats
-
-6) Gibbering Mouther
-
-7) Animated Armor (Remember brain in a jar. So prototypes. Exposed brains of missing travelers.)
+1. Nothic
+  
+2. Core Spawn Crawlers
+  
+3. Bagiennik
+  
+4. Choker
+  
+5. Cranium Rats
+  
+6. Gibbering Mouther
+  
+7. Animated Armor (Remember brain in a jar. So prototypes. Exposed brains of missing travelers.)
+  
 
 #### Link to main quest
 
@@ -277,10 +280,48 @@ The players find a Nothic corpse. The reason is because of their Dark Oracles en
 
 Find lots of flesh stitched bags. Soul bags. Prototypes. Fragments of a contract. (Infernal contract?)
 
-Arcana check explains soul bags. Leads off to investigate Night Hags. Tormented adventurers and homeless to evil acts. 
+Arcana check explains soul bags. Leads off to investigate Night Hags. Tormented adventurers and homeless to evil acts.
 
 > No hag present, living or dead. Kas lured the Night Hag to that village in order to allow the Nothic to learn how to make soul bags. Afterwards Kas brought the hag to his domain of dread.
 
 The find a portal to the Abyss in the dungeon.
 
 Portal comes out in The Fools Ante, a bar, casino and Inn Hades. This is where the Charlatans Dice come in. They will have to pass a wisdom save to pass through the gambling area. No magical allurements are used, just marketing and social engineering.
+
+1. They make you play with chips instead of real money.
+  
+2. There isn't a clock in sight.
+  
+3. Free alcohol.
+  
+4. Maze-like layout.
+  
+5. They offer free room and board.
+  
+6. They restrict your view of the outside world.
+  
+7. They put on big celebrations for the rare big wins.
+  
+8. Bathrooms are placed strategically in the deepest parts of the casino.
+  
+9. They offer loyalty programs. (Points for each dollar spent, win or loose.)
+  
+10. Enticing sights, sounds, and smells.
+  
+11. Near misses.
+  
+12. [Familiar concepts.]([Casino Psychology 101: What Makes Casinos Addictive](https://www.gatewayfoundation.org/blog/casino-psychology/#6))
+  
+  Slot machines are often based on familiar TV shows, games, places and people to attract gamblers and make them feel comfortable playing. You might find “Wheel of Fortune” or “Who Wants to Be a Millionaire” slot machines, which evoke images of winning cash. These familiar concepts keep people playing, even if they’re using a complicated machine. The more they play, the more they lose.
+  
+13. [Cashless games.]([Casino Psychology 101: What Makes Casinos Addictive](https://www.gatewayfoundation.org/blog/casino-psychology/#7))
+  
+  When you play a slot machine, you’ll first feed cash into it. Your money is then converted into digital credits. When it’s time to cash out, the machine will not give you your change. Instead, it’ll print a voucher. These convenient vouchers make it easier for guests to forget they’re spending real money.
+  
+  Table games also use cashless methods to keep players playing by turning their cash into chips. It’s easier to bet a large amount when you’re playing with chips instead of real coins and dollars. It also hurts less to lose chips until you realize later how much you’ve lost.
+  
+14. [A sense of control.]([Casino Psychology 101: What Makes Casinos Addictive](https://www.gatewayfoundation.org/blog/casino-psychology/#8))
+  
+  Some games give players a false sense of control. When you play craps, you get to roll the dice. Likewise, when you play video poker, you get to choose which cards to keep.
+  
+  These more interactive games may cause some people to think they have a better chance of winning because they have more control. As a result, they might play longer, thinking they’ll eventually win back everything they lost. The truth is, no matter how much control you think you have over a game’s results, the house ensures it ultimately wins.
