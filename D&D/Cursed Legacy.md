@@ -2,6 +2,39 @@
 
 ---
 
+- [x] Finalize Artifact Write up
+  
+- [x] Starting conditions
+  
+- [x] General summary
+  
+- [ ] Main Questline
+  
+  - [ ] Dust of Dryness
+    
+  - [ ] Cloak of Many Fashions
+    
+  - [ ] Dread Helm
+    
+  - [ ] Scribes Pen
+    
+  - [ ] Moon-Touched blade
+    
+  - [ ] Charlatan's Dice
+    
+- [ ] Side Quests
+  
+  - [ ] Ankheg Problem
+    
+- [ ] NPCs
+  
+- [ ] Locations
+  
+- [ ] Maps
+  
+
+---
+
 ## Adventurers College
 
 ### Description
@@ -99,8 +132,11 @@ What would it need?
   
 4. Spells
   
-5. I'm pretty sure I'm missing something. I'll see if I can find some comics that deal with this sort of thing.
+5. Common threads connecting all multiverses together.
   
+6. How to manipulate those threads.
+  
+  1. Imbuing an essence into those threads.
 
 Still need to figure out why Kas is doing this. So, the fake Kas is haunted by his betrayal.
 
@@ -169,6 +205,8 @@ Boons the user with unusual good fortune when gambling. The dice are in a nondes
 
 The players starting conditions have yet to be finalized. So far we have tavern on the Infinite Staircase as part of a caravan guard. Tavern in a town. Caravan guards in a caravan. Not a clue yet. Hell, at this point I'm willing to give "recently graduated from adventurers college" a shot.
 
+College finals. Take care of the Ankheg problem. Professors use divination spells to determine what each groups final task is.
+
 ---
 
 ### Dust of Dryness
@@ -191,14 +229,14 @@ The cursed helm finds its way into the possession of a foot soldier. Under the i
 
 He is given control of a [Insert player level appropriate size for challenge here]. At some point the players come to this fort [I'm thinking caravan escort to keep the overall plot somewhat obfuscated.]. They are placed under arrest under false charges. Taken to the dungeons where they see first hand the "efficiency" of the commanders leadership. All but a few of the soldiers here are fiercely loyal to the commander. The only soldiers that aren't loyal are new arrivals. The longer the soldiers stay, the more fanatical they become. [Daily wisdom saves. Use exhaustion levels to denote fanaticism level.] Not even the player are immune.
 
-| Level | Effect |
-| --- | --- |
-| 1   | Placeholder |
-| 2   | Placeholder |
-| 3   | Placeholder |
-| 4   | Placeholder |
-| 5   | Placeholder |
-| 6   | Placeholder |
+| Level | DC  | Effect |
+| --- | --- | --- |
+| 1   | Placeholder |     |
+| 2   | Placeholder |     |
+| 3   | Placeholder |     |
+| 4   | Placeholder |     |
+| 5   | Placeholder |     |
+| 6   | Placeholder | Utter unflinching hero worshiping loyalty. |
 
 ### Cloak of Many Fashions
 
@@ -286,7 +324,13 @@ Arcana check explains soul bags. Leads off to investigate Night Hags. Tormented 
 
 The find a portal to the Abyss in the dungeon.
 
+---
+
+### Charlatan's Dice:
+
 Portal comes out in The Fools Ante, a bar, casino and Inn Hades. This is where the Charlatans Dice come in. They will have to pass a wisdom save to pass through the gambling area. No magical allurements are used, just marketing and social engineering.
+
+### Psycological techniques casinos use.
 
 1. They make you play with chips instead of real money.
   
@@ -325,3 +369,23 @@ Portal comes out in The Fools Ante, a bar, casino and Inn Hades. This is where t
   Some games give players a false sense of control. When you play craps, you get to roll the dice. Likewise, when you play video poker, you get to choose which cards to keep.
   
   These more interactive games may cause some people to think they have a better chance of winning because they have more control. As a result, they might play longer, thinking they’ll eventually win back everything they lost. The truth is, no matter how much control you think you have over a game’s results, the house ensures it ultimately wins.
+  
+
+---
+
+### Cloak of Many Fashions
+
+**Possible BBEG:**
+
+1. Shape Shifted Dragon
+  
+2. Vampire
+  
+3. Human turned Ghast because of the cloak.
+  
+
+Can a dragon be a vampire? One of the big themes is canibalism or simply consumption of raw flesh from bodies as part of the ritual for using the powers of the cloak. Perhaps a human that, because of the cloak, has become a strange non-typical vampire, or even a Ghast.
+
+Human noble -> Cloak -> Personal Cult -> Banished to the Abyss -> Becomes Ghast with the cult becoming Ghouls.
+
+(If utilized later in the campaign, the BBEG could be a Tainted Priest from the Libris Moritis 5th Edition Homebrew.)
