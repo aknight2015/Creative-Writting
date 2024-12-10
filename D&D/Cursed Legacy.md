@@ -4,6 +4,18 @@
 
 - [x] Finalize Artifact Write up
   
+  - [x] Dust of Dryness
+    
+  - [x] Dread Helm
+    
+  - [x] Cloak of Many Fashions
+    
+  - [x] Scribes Pen
+    
+  - [x] Moon-Touched blade
+    
+  - [x] Charlatans Dice
+    
 - [x] Starting conditions
   
 - [x] General summary
