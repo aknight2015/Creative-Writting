@@ -265,7 +265,7 @@ Mysterious merchant sells the cloak to a minor noble. The cloak makes them a cen
 
 Desperate bard spends last gold on a "lucky" quill and inkwell set. At first it's just small things. Small whispers of creativity. As he writes he slowly notices some of the things he writes become real. The more detail he puts in, the more real it is. He ends up creating the book of Eibon. He creates an artifact of evil that exists outside of time and space. Inside are rituals that give birth to some of the most powerful eldritch evils in any multiverse. Basically, it's a temporal self creation loops, it created itself. Among the eldritch evils in there is mention of The Serpent, and other beings so old their origins are long forgotten. Goes back to the Temporal Mass theory I typed up earlier in the document. It's a pillar of creation so it must always exist. It curses the bard with nightmares of strange otherworldly horrors.
 
-**Note**: After the players defeat the bard if they search his things they'll discover a half written story about their exploits so far. The half written book starts when the campaign started.
+**Note**: After the players defeat the bard if they search his things they'll discover a half written story about their exploits so far. The half written book starts when the campaign started. There are also notes, and half explinations. They are the backstories of the players characters. Representing the incomplete nature of a backstory, IE lack of full biography.
 
 ### Moon-Touched Sword
 
@@ -404,3 +404,7 @@ Human noble -> Cloak -> Personal Cult -> Banished to the Abyss -> Becomes Ghast 
 (If utilized later in the campaign, the BBEG could be a Tainted Priest from the Libris Moritis 5th Edition Homebrew.)
 
 I really like the Ghast idea, so she's a Ghast.
+
+She's a Human Noble, with the Undead type, and the abilities of a Ghast in addition to her other abilities.
+
+---
