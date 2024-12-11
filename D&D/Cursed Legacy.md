@@ -37,12 +37,13 @@
 - [ ] Side Quests
   
   - [ ] Ankheg Problem
-    
 - [ ] NPCs
   
 - [ ] Locations
   
 - [ ] Maps
+  
+- [ ] ARGH!!!!!!!!!!!!!!!
   
 
 ---
@@ -334,13 +335,13 @@ Arcana check explains soul bags. Leads off to investigate Night Hags. Tormented 
 
 > No hag present, living or dead. Kas lured the Night Hag to that village in order to allow the Nothic to learn how to make soul bags. Afterwards Kas brought the hag to his domain of dread.
 
-The find a portal to the Abyss in the dungeon.
+~~The find a portal to the Abyss in the dungeon.~~
 
 ---
 
 ### Charlatan's Dice:
 
-Portal comes out in The Fools Ante, a bar, casino and Inn Hades. This is where the Charlatans Dice come in. They will have to pass a wisdom save to pass through the gambling area. No magical allurements are used, just marketing and social engineering.
+~~Portal comes out in~~ The Fools Ante, a bar, casino and Inn in Hades. This is where the Charlatans Dice come in. They will have to pass a wisdom save to pass through the gambling area. No magical allurements are used, just marketing and social engineering.
 
 ### Psycological techniques casinos use.
 
@@ -401,3 +402,5 @@ Can a dragon be a vampire? One of the big themes is canibalism or simply consump
 Human noble -> Cloak -> Personal Cult -> Banished to the Abyss -> Becomes Ghast with the cult becoming Ghouls.
 
 (If utilized later in the campaign, the BBEG could be a Tainted Priest from the Libris Moritis 5th Edition Homebrew.)
+
+I really like the Ghast idea, so she's a Ghast.
