@@ -1,10 +1,10 @@
-#Adventurers College
+# Adventurers College
 
-##Research:
+## Research:
 
-###Colleges and Organizational Structure of Universities
+### Colleges and Organizational Structure of Universities
 
-###Governing Boards, The President, Faculty, Administration and Staff, Students, Future Prospects
+### Governing Boards, The President, Faculty, Administration and Staff, Students, Future Prospects
 
 ---
 
