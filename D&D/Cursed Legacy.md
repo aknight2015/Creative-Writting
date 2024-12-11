@@ -165,6 +165,12 @@ Note: I need to flesh out the "end of the road" part. (What does this mean? ----
 
 So, by sheer luck I got an ad for a AI RPG generator for DMs. So I was able to input my conundrum and it gave me a workable answer. Kas is doing this to amass enough power to finish his masters work.
 
+Okay. So I figured THIS part out. Kas has the help of a hag. The owner of the Moon-Touched blade chased her out of her territory because of the call of the abandoned church that was in her swamp. More on the church in a moment. Because she was chased out Kas approached her and she agreed to help him in exchange for her territory back. She doesn't know that Kas arranged for her to be chased out.
+
+Now, the church. Kas placed the blade in the church knowing the druid would be lured to it due to the fact that the hag was corrupting the environment. Durring the confrontation the eldritch horror that once inhabited the church begins speaking to the druid.
+
+The nothic remains a conundrum.
+
 ---
 
 ### The Artifacts
