@@ -171,6 +171,20 @@ Now, the church. Kas placed the blade in the church knowing the druid would be l
 
 The nothic remains a conundrum.
 
+Phylactery
+
+> A lich is created by an arcane ritual that traps the wizard's soul within a phylactery. Doing so binds the soul to the mortal world [...] A phylactery is traditionally an amulet in the shape of a small box, but **<u>it can take the form of any item possessing an interior space</u>** into which arcane sigils of naming, binding, immortality, and dark magic are scribed in silver.
+
+> With its phylactery prepared, the future lich drinks a potion of transformation-a vile concoction of poison mixed with the blood of a sentient creature whose soul is sacrificed to the phylactery. The wizard falls dead, then rises as a lich as its soul is drawn into the phylactery, where it forever remains.
+
+> A lich must periodically feed souls to its phylactery to sustain the magic preserving its body and consciousness. [It traps souls within the Phylactery, which must be on the same plane of existence, by using a powerful spell]. A creature imprisoned in the phylactery for 24 hours is consumed and destroyed utterly [...] A lich that fails or forgets to maintain its body with sacrificed souls begins to physically fall apart, and might eventually become a demilich.
+
+> When a lich's body is broken by accident or assault, the will and mind of the lich drains from it, leaving only a lifeless corpse behind. Within days, a new body reforms next to the lich's phylactery, coalescing out of glowing smoke that issues from the device. Because the destruction of its phylactery means the possibility of eternal death, a lich usually keeps its phylactery in a hidden, well-guarded location.
+
+Can a phylactery be a artificially constructed demiplane? In DC lore there's something called the Source Wall:
+
+> The **Source Wall** is a solid barrier surrounding the [Multiverse](https://dc.fandom.com/wiki/Multiverse "Multiverse"), beyond which lies [the Source](https://dc.fandom.com/wiki/The_Source "The Source").
+
 ---
 
 ### The Artifacts
@@ -412,5 +426,15 @@ Human noble -> Cloak -> Personal Cult -> Banished to the Abyss -> Becomes Ghast 
 I really like the Ghast idea, so she's a Ghast.
 
 She's a Human Noble, with the Undead type, and the abilities of a Ghast in addition to her other abilities.
+
+---
+
+### Moon-Touched blade
+
+Circle of the Shepard druid comes across a hags swamp. Durring one of their many battles the druid hears a voice calling it. Following the voice they come across an old abandoned church. Within the church is a blade clutched by a rotting corpse. The voice commanded the druid take up the blade, enlist an army, and free its land from the influence of the hag. The two have been at war ever since.
+
+The Druids patron is an eldritch being from an alternate multiverse.
+
+- Alternate is that the patron could be that the Devil/Demon of fungus and mushrooms. Zugg-somthing or other.
 
 ---
