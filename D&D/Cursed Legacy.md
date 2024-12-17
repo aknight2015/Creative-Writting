@@ -24,7 +24,7 @@
   
   - [ ] Dust of Dryness
     
-  - [ ] Cloak of Many Fashions
+  - [x] Cloak of Many Fashions
     
   - [ ] Dread Helm
     
@@ -99,9 +99,7 @@ It was created using a demiplane. Originally it had a few modest buildings, one 
 
 **Credit: u/unity57643 on Reddit**
 
-## Cursed Legacy
-
-### Mad ravings of the DM
+## Mad ravings of the DM
 
 ---
 
@@ -171,6 +169,8 @@ Now, the church. Kas placed the blade in the church knowing the druid would be l
 
 The nothic remains a conundrum.
 
+### Can a multiverse/universe be a phylactery:
+
 Phylactery
 
 > A lich is created by an arcane ritual that traps the wizard's soul within a phylactery. Doing so binds the soul to the mortal world [...] A phylactery is traditionally an amulet in the shape of a small box, but **<u>it can take the form of any item possessing an interior space</u>** into which arcane sigils of naming, binding, immortality, and dark magic are scribed in silver.
@@ -185,7 +185,11 @@ Can a phylactery be a artificially constructed demiplane? In DC lore there's som
 
 > The **Source Wall** is a solid barrier surrounding the [Multiverse](https://dc.fandom.com/wiki/Multiverse "Multiverse"), beyond which lies [the Source](https://dc.fandom.com/wiki/The_Source "The Source").
 
+So, technically yes. How's this for a theory. It's already happened. A universe/multiverse that's all undead. It feeds itself by attaching itself to other multiverses/universes. When it attaches the dead rise from their graves, necromancers are born, etc. So every universe/multiverse that has undead in it, is because the undead multiverse/universe has attached itself to that universe/multiverse.
+
 ---
+
+## Cursed Legacy
 
 ### The Artifacts
 
@@ -438,3 +442,17 @@ The Druids patron is an eldritch being from an alternate multiverse.
 - Alternate is that the patron could be that the Devil/Demon of fungus and mushrooms. Zugg-somthing or other.
 
 ---
+
+# Finalized ideas
+
+## Adventurers College:
+
+- Final Project is Ankheg Problem
+
+## Ankheg Problem:
+
+- Dungeon
+
+## Cloak of Many Fashions:
+
+- As written in above notes.
