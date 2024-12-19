@@ -162,6 +162,12 @@ Players start with the Ankheg problem. Find a dungeon. When the players go back 
 
 Another alternative, which I'm leaning towards, is have them meet the farmer at the tavern, so as the players try to get rid of the Ankhegs, they get to experience the curse/poison. So they know something's wrong.
 
+It takes 24 hours before the curse/poison takes affect. So, it should be safe to have the players contract it prior to taking on the Ankheg problem.
+
+Another detail, travelers that contract it that die will raise as undead. They will seek a way back to the tavern by any means neccessary unless otherwise specified. The main point is to create a link between missing travelers/townsfolk (like homeless) and the tavern and establishes the necromantic theme.
+
+I could also make it that after the 3 day of infection the infected feels a inescapable compulsion to return to the tavern.
+
 ---
 
 ## Brainstorms
