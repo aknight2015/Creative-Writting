@@ -1,1 +1,0 @@
-I've included all the needed files I've referenced in the main readme. This is incase something horrible happens to MarkText and you can no longer get the files from their site. Also included is the Markdown format the program uses.
